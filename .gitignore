@@ -1,0 +1,21 @@
+# 密钥、配置文件
+.env
+.env.local
+*.key
+*.pem
+config.json
+application.properties
+application.yml
+
+# 依赖文件夹
+node_modules/
+venv/
+target/
+
+# IDE/系统文件
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
